@@ -1,4 +1,18 @@
 /* Write your CSS here! */
-.header {
+#mainHeading {
+    margin: 2;
+    padding: 20px;
     text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 50px;
+    color: red;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+.funParagraph {
+    color: green;
 }

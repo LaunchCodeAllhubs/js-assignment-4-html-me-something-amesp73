@@ -14,13 +14,14 @@ body {
     display: block;
     background-color: floralwhite;
     text-align: left;
+    font-size: 17px;
 }
 
 h2 {
     font-size: 30px;
 }
 
-h3 {
+.headerThree {
     text-align: center;
     font-size: 25px;
 }
@@ -29,11 +30,6 @@ img {
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
-}
-
-.centerImage {
-    text-align: center;
-    display: block;
 }
 
 .funParagraph {

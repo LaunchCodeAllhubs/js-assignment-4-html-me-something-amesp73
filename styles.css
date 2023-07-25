@@ -1,1 +1,43 @@
 /* Write your CSS here! */
+#mainHeading {
+    margin: 0;
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 50px;
+    color: red;
+    background: white;
+    border: 4mm ridge rgba(255, 255, 255, 0.6);
+}
+
+body {
+    margin: 8px;
+    padding: 20px 50px 20px 50px;
+    display: block;
+    background-color: lemonchiffon;
+    text-align: left;
+    font-size: 17px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.headerThree {
+    text-align: center;
+    font-size: 25px;
+}
+
+img {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+}
+
+footer {
+    text-align: center;
+}
